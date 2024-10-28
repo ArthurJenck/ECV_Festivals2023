@@ -19,7 +19,7 @@ Projet débuté et terminé le 21 mars 2023.
 
 #### Merci également à Éric Caron, notre professeur de l'an dernier, pour m'avoir transmis sa passion pour le développement.
 
-## Licence
+### Licence
 
 Jsp
 
