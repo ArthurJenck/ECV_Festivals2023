@@ -1,20 +1,32 @@
-# Partiel B2 fin d'année
+# ECV Paris - Festivals 2023
 
-Ce site faisait état de partiel pour notre cours de Développement Web de fin de deuxième année en Bachelor Chef de Projet à l'ECV Digital Paris. Il était question de remettre en oeuvre toutes les connaissances apprises au cours de cette année en WebDev, incluant la maîtrise de la sémantique HTML, les imbrications et variables SASS et SCSS, et enfin le contrôle du DOM à l'aide du Javascript.
+## Partiel : Intégrer à partir d'une maquette Figma une Landing Page en HTMl/CSS & JS
 
-## Installation
+Ce site faisait état de partiel pour notre cours de Développement Web de fin de deuxième année en Bachelor Chef de Projet à l'ECV Digital Paris. Il était question de remettre en oeuvre toutes les connaissances apprises au cours de cette année en WebDev, incluant la maîtrise de la sémantique HTML, les imbrications et variables SASS et SCSS, et enfin le contrôle du DOM à l'aide du Javascript, le tout en moins de 4 heures.
 
-Ouvrez les fichiers dans votre IDE préféré et regardez la magie opérer.
+### Aperçu hébergé
 
-## Auteur
+Hébergement sur GitHub Pages :  
+https://arthurjenck.github.io/ECV_Festivals2023/
 
-Je suis Arthur Jenck, 20 ans pour l'instant, je sors de ma deuxième année de Bachelor. Site personnel : arthurjenck.com (en travaux).
+### Dates du projet
 
-## Remerciements
+Projet débuté et terminé le 21 mars 2023.
+
+### Remerciements
 
 #### Un grand merci à Manon, notre professeure de Dev de cette année, pour son contact avec nous, ses conseils de qualité, ses cours intéressants et sa capacité à transmettre ses connaissances.
+
 #### Merci également à Éric Caron, notre professeur de l'an dernier, pour m'avoir transmis sa passion pour le développement.
 
-## License
+## Licence
 
 Jsp
+
+### Auteur
+
+Arthur Jenck  
+https://arthurjenck.com/  
+https://www.linkedin.com/in/arthurjenck/
+
+<img src="https://i.ibb.co/grKRmmn/Logo-Jaune-PNG.png" width="75">
